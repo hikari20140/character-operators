@@ -1,4 +1,4 @@
-This repository fully supports C++, javascrip, C#, 
+This repository fully supports C++, javascrip 
 How to write operators
 Language: C++
 int main(void) {
